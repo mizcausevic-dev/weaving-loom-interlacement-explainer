@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/weaving-loom-interlacement-explainer/
 
+Repository: https://github.com/mizcausevic-dev/weaving-loom-interlacement-explainer
+
 ## What this is
 
 An interactive anatomy plate for Weaving Loom Interlacement. Play, scrub, or jump the five stages. The same frame always draws the same picture.
